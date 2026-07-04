@@ -1,0 +1,6 @@
+{
+  "name": "Cuestionario de Intereses Profesionales CIPC",
+  "description": "Herramienta interactiva y automatizada del Cuestionario de Intereses Profesionales (CIPC). Permite responder la evaluación, editar puntajes en una hoja estilo Excel, analizar perfiles vocacionales y visualizar resultados en un dashboard dinámico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
